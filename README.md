@@ -1,5 +1,10 @@
 ### Hi, I'm Roysel Argaez 👋
-
+<!--
+[![Website](https://img.shields.io/badge/ircsasoftware.com.mx-web-red?style=flat-square)](https://ircsasoftware.com.mx)
+[![Flickr](https://img.shields.io/flickr/royargaez?color=1DA1F2&logo=flickr&style=flat-square)](https://www.flickr.com/people/142304699@N07/)
+[![In](https://img.shields.io/badge/LinkedIn-in-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/aramosc/)
+[![Email](https://img.shields.io/badge/ircsasw%40gmail.com-mail-blueviolet?style=flat-square)](mailto://ircsasw@gmail.com)
+-->
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
